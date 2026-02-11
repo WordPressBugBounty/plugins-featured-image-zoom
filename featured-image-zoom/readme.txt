@@ -3,7 +3,7 @@ Contributors: numeeja
 Donate link: https://cubecolour.co.uk/wp
 Tags: magnify, zoom, featured image, thumbnail, image, responsive
 Requires at least: 4.7
-Tested up to: 6.5
+Tested up to: 6.8
 Stable tag: 2.1.0
 License: GPL / MIT
 
